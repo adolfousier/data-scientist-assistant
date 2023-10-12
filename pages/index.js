@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Mint Ventures AI Twitter Spaces Q&A Assistant Demo!" />
+        <Header title="Welcome to Mint Ventures AI Data Scientist Assistant Demo!" />
         <p className="description">
-          This AI Agent will help you prepare for a Twitter Spaces or interviews by drafting ten potential questions a host may ask on a topic.</p> 
+          This AI agent is designed to assist you in writing and testing code, as well as improving it for debugging purposes and more. Give it a try, and you'll find it to be an invaluable tool in your coding journey.</p> 
           <p>Get started by clicking on the bot icon.
         </p>
       </main>
